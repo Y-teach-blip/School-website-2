@@ -1,0 +1,139 @@
+#body
+{
+    text-align: center;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(247,254,161,1) 0%, rgba(247,254,161,1) 17.4%, rgba(254,210,249,1) 36.3%, rgba(254,210,249,1) 61.6%, rgba(251,164,164,1) 84.1% );
+}
+
+#canteen{
+    width: 300px;
+}
+
+#yoga{
+    width:300px;
+}
+
+#playground{
+    width: 300px;
+}
+
+#activity{
+    width: 300px;
+}
+
+
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv hr
+{
+    width: 230px; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+
+.environment_li
+{
+  margin-top: 13px;
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+  border-radius: 25px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
