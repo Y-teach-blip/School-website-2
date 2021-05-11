@@ -6,21 +6,43 @@
 
 #canteen{
     width: 300px;
+    border-radius: 700px;
+    border-color: black;
+    border-width: 7px;
+    border-style: double;
 }
 
 #yoga{
     width:300px;
+    border-radius: 700px;
+    border-color: black;
+    border-width: 7px;
+    border-style: double;
 }
 
 #playground{
     width: 300px;
+    border-radius: 700px;
+    border-color: black;
+    border-width: 7px;
+    border-style: double;
 }
 
 #activity{
     width: 300px;
+    border-radius: 700px;
+    border-color: black;
+    border-width: 7px;
+    border-style: double;
 }
 
-
+#library{
+  width: 300px;
+  border-radius: 700px;
+  border-color: black;
+  border-width: 7px;
+  border-style: double;
+}
 
 #contact iframe
 {
